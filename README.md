@@ -109,3 +109,4 @@ If you are developing a production application, we recommend using TypeScript an
 "# bloodbank-front1" 
 "# bloodbank-frontend" 
 "# bloodbank-frontend" 
+"# bloodbankingsystem-front1" 
